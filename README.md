@@ -1,12 +1,12 @@
 # Tasks! Claim 1 from each group:
 ## Train a model (tune parameters, observe performance, write down your findings/experience with your model.) Takeaways should be committed as a MODEL_takeaways.md:
 - KNN (kinda done so easy) : ASSIGNEE
-- Decision Tree : ASSIGNEE
+- Decision Tree : Adrian
 - Logistic Regression : ASSIGNEE
 - Random Forest : ASSIGNEE
 ## Misc. Tasks:
 - Feature Engineering : Dale
-- Make powerpoint/report : Joseph + 1 more ASSIGNEE
+- Make powerpoint/report : Joseph + Adrian
 - Improve model comparisons/evals : ASSIGNEE
 - Clean up repo, README, etc. : ASSIGNEE
 
