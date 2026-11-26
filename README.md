@@ -2,12 +2,12 @@
 ## Train a model (tune parameters, observe performance, write down your findings/experience with your model.) Takeaways should be committed as a MODEL_takeaways.md:
 - KNN (kinda done so easy) : ASSIGNEE
 - Decision Tree : Adrian
-- Logistic Regression : ASSIGNEE
+- Logistic Regression : Vivian
 - Random Forest : ASSIGNEE
 ## Misc. Tasks:
 - Feature Engineering : Dale
-- Make powerpoint/report : Joseph + Adrian
-- Improve model comparisons/evals : ASSIGNEE
+- Make powerpoint/report : Joseph + Adrian + Vivian
+- Improve model comparisons/evals : Vivian
 - Clean up repo, README, etc. : ASSIGNEE
 
 
