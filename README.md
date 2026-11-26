@@ -3,7 +3,7 @@
 - KNN (kinda done so easy) : ASSIGNEE
 - Decision Tree : Adrian
 - Logistic Regression : ASSIGNEE
-- Random Forest : ASSIGNEE
+- Random Forest : Dale
 ## Misc. Tasks:
 - Feature Engineering : Dale
 - Make powerpoint/report : Joseph + Adrian
